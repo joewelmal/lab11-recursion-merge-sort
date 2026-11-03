@@ -1,0 +1,34 @@
+
+# Part E - Project Application
+
+## E1 - Project Connection
+
+My final project is Campus Cafeteria Order Management.
+
+The program manages cafeteria orders, including delivery orders.
+
+## E2 - Temporary View
+
+The temporary view contains only active DELIVERY orders.
+
+An active order has the status PENDING or IN_PROGRESS.
+
+The program stores pointers to the original orders instead of copying the records.
+
+## E3 - Sorting Criteria
+
+The delivery report can be sorted using these fields:
+
+1. Building in alphabetical order.
+2. Priority from highest to lowest.
+3. Order ID from lowest to highest.
+
+These fields help organize the delivery report without changing the original order records.
+
+## E4 - Original Data
+
+The original orders remain in their arrival order.
+
+The temporary view contains pointers to the selected orders.
+
+Changing the order of pointers in the view would not change the order of records in the original array.

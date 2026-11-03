@@ -1,0 +1,9 @@
+Active DELIVERY Orders:
+Order ID: 101 | Type: DELIVERY | Status: PENDING | Building: Engineering | Priority: 2
+Order ID: 103 | Type: DELIVERY | Status: IN_PROGRESS | Building: Library | Priority: 3
+
+Original Orders:
+Order ID: 101 | Type: DELIVERY | Status: PENDING
+Order ID: 102 | Type: DINE_IN | Status: PENDING
+Order ID: 103 | Type: DELIVERY | Status: IN_PROGRESS
+Order ID: 104 | Type: DELIVERY | Status: COMPLETED
